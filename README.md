@@ -1,7 +1,8 @@
 # Kavya-Sharma
 
 Hi, I'm Kavya Sharma  
-Computer Science Engineering {AI and ML) 
+
+Branch: Computer Science Engineering {AI and ML) 
 
 1st Year  
 
